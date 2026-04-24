@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Achieng 👋
 
-<!--
-**achybo/achybo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer passionate about building scalable APIs and secure systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Java, Spring Boot
+- REST APIs, JWT Authentication
+- MySQL
+- React & Python (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- Health System API (Spring Boot)
+- Authentication System (JWT)
+
+## 📚 Studying
+- I am currently taking a Coursera course on Algorithmic Thinking.
+
+## 📫 Contact Me
+- Email: achy.onyi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/achieng-onyango-8b4416401/
+
