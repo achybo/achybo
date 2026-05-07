@@ -1,6 +1,6 @@
 ## Hi, I'm Achieng 👋
 
-Java Backend Developer passionate about building scalable APIs and secure systems.
+Backend Developer passionate about building scalable APIs and secure systems.
 
 ## 🚀 Tech Stack
 - Java, Spring Boot
